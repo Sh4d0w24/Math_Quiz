@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.all {
+    margin: 0 auto;
+    max-width: 500px;
+}
+
+.settings, .quiz {
+    margin-top: 20px;
+    padding: 15px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+}
